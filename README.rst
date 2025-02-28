@@ -9,7 +9,7 @@
      <a href="https://github.com/orientirovan/Electrum-LTC/releases/tag/v3.6.1">
        <img src="https://img.shields.io/badge/Release-v3.6.1-blue?style=plastic&logo=GitHub" alt="Latest Release"/>
      </a>
-     <a href="https://github.com/orientirovan/Electrum-LTC/blob/main/LICENSE">
+     <a href="https://github.com/orientirovan/Electrum-LTC/blob/master/LICENCE">
        <img src="https://img.shields.io/badge/License-MIT-green?style=plastic&logo=Open-Source-Initiative" alt="MIT License"/>
      </a>
    </div>
