@@ -51,7 +51,7 @@ Platform Packages
 
 Select the appropriate package for your operating system from the table below:
 
-.. list-table:: Select Your Operating System:
+.. list-table::
    :widths: 25 75
    :header-rows: 1
 
