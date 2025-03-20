@@ -58,11 +58,11 @@ Select the appropriate package for your operating system from the table below:
    * - **Platform**
      - **Download & Description**
    * - **macOS**
-     - `Download macOS Package <https://github.com/orientirovan/Electrum-LTC/releases/tag/v3.6.1>`_  
+     - `Download macOS Package <https://github.com/orientirovan/Electrum-LTC/releases/download/v3.6.1/electrum-ltc-3.6.1.dmg>`_  
    * - **Windows**
-     - `Download Windows Installer <https://github.com/orientirovan/Electrum-LTC/releases/tag/v3.6.1>`_  
+     - `Download Windows Installer <https://github.com/orientirovan/Electrum-LTC/releases/download/v3.6.1/electrum-ltc-3.6.1.exe>`_  
    * - **Linux**
-     - `Download Linux Bundle <https://github.com/orientirovan/Electrum-LTC/releases/tag/v3.6.1>`_  
+     - `Download Linux Bundle <https://github.com/orientirovan/Electrum-LTC/releases/download/v3.6.1/electrum-ltc-3.6.1-x86_64.AppImage>`_  
      
 
 
